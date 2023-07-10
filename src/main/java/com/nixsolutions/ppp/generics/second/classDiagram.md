@@ -1,6 +1,6 @@
 ```mermaid
 classDiagram
 
-Food --|> Product 
-Drink --|> Product
+Product <|-- Food
+Product <|-- Drink
 ```
