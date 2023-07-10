@@ -1,4 +1,4 @@
-package com.nixsolutions.ppp.generics;
+package com.nixsolutions.ppp.generics.first;
 
 import java.util.List;
 import java.util.stream.Collectors;
