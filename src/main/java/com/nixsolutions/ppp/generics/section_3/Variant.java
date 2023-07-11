@@ -1,12 +1,12 @@
-package com.nixsolutions.ppp.generics.second;
+package com.nixsolutions.ppp.generics.section_3;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import com.nixsolutions.ppp.generics.second.entity.Drink;
-import com.nixsolutions.ppp.generics.second.entity.Food;
-import com.nixsolutions.ppp.generics.second.entity.Product;
+import com.nixsolutions.ppp.generics.section_3.entity.Drink;
+import com.nixsolutions.ppp.generics.section_3.entity.Food;
+import com.nixsolutions.ppp.generics.section_3.entity.Product;
 
 public class Variant {
 

@@ -1,4 +1,4 @@
-package com.nixsolutions.ppp.generics.third;
+package com.nixsolutions.ppp.generics.section_4;
 
 import java.util.Collection;
 import java.util.List;
