@@ -11,17 +11,17 @@ public class ListPrinting {
 
 
   public static void main(String[] args) {
-    printA(THINGS);
-    printA(INTEGERS);
-    printA(STRINGS);
+//    printA(THINGS);
+//    printA(INTEGERS);
+//    printA(STRINGS);
 
 //    printB(THINGS);
 //    printB(INTEGERS);
 //    printB(STRINGS);
 
-//    printC(THINGS);
-//    printC(INTEGERS);
-//    printC(STRINGS);
+    printC(THINGS);
+    printC(INTEGERS);
+    printC(STRINGS);
   }
 
   public static void printA(Collection collection) {

@@ -83,12 +83,12 @@ public class Variant {
   }
 
   private static void genericsAreInvariant() {
-//    List<Product> products = new ArrayList<Food>();
-//
-//    products.add(new Food());
-//    products.add(new Drink());
-//    products.add(new Product());
-//
-//    products.forEach(System.out::println);
+    List<Product> products = new ArrayList<Food>();
+
+    products.add(new Food());
+    products.add(new Drink());
+    products.add(new Product());
+
+    products.forEach(System.out::println);
   }
 }

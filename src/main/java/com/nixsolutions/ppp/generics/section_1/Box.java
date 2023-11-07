@@ -15,4 +15,13 @@ public class Box<T> {
   public void setContent(T content) {
     this.content = content;
   }
+
+  public static void main(String[] args) {
+    var instance = new Box<>("some");
+
+    System.out.println("that's a " + instance.getContent());
+
+    instance.setContent("thing");
+    System.out.println("that's a " + instance.getContent());
+  }
 }
